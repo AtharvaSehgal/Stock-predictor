@@ -1,0 +1,11 @@
+venv/
+.env
+__pycache__/
+*.pyc
+*.pyo
+models/saved/
+.DS_Store
+.streamlit/secrets.toml
+*.dylib
+*.so
+*.keras
